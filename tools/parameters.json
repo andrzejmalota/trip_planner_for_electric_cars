@@ -1,0 +1,12 @@
+{
+  "default": {
+    "number_of_iterations": 10,
+    "generation_size": 12,
+    "penalty_multiplier": 1.5,
+    "mutation_multiplier": 1,
+    "parent_to_child_size": 0.2,
+    "min_speed": 30,
+    "max_speed": 119
+  },
+  "config1": {}
+}
